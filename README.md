@@ -36,7 +36,7 @@ The project models real-world components of Blackjack, including cards, decks, p
 
 ### Final Result
 
-![Final Result](images/result.png}
+![Final Result](images/result.png)
 
 ## Tech Used
 
