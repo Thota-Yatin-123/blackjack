@@ -56,16 +56,6 @@ Through this project, I practiced:
 * Implementing game loops and conditions
 * Handling complex logic such as Blackjack scoring and Ace values
 
-## Future Improvements
-
-Possible improvements for future versions:
-
-* Add replay functionality
-* Add betting and chip system
-* Add multiple players
-* Split code into separate modules
-* Create a graphical user interface (GUI)
-
 ## Author
 
 **Yatin Thota**
